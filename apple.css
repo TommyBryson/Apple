@@ -712,9 +712,9 @@ p {
         position: absolute;
     }
     .con2-p {
-        font-size: 14px;
+        font-size: 12px;
         margin-top: 151px;
-        margin-left: -14px;
+        margin-left: -2px;
         position: absolute;
     }
     .con2-img {
@@ -735,7 +735,7 @@ p {
         cursor: pointer;
         background-color: #000;
         color: #fff;
-        margin-left: -247px;
+        margin-left: -4px;
         border-radius: 0 44px 44px 0;
         min-width: 99px;
     }
