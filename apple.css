@@ -733,9 +733,8 @@ p {
         min-width: 99px;
     }
     .sl7-input {
-        margin-top: 0;
+        width: 110px;
+        margin-top: 5px;
     }
-    .sl7-input {
-        width: 70px;
-    }
+    
 }
