@@ -740,7 +740,7 @@ p {
         min-width: 99px;
     }
     .sl7-input {
-        width: 110px;
+        max-width:170px;
         margin-top: 15px;
     }
     
