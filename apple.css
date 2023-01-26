@@ -308,7 +308,7 @@ p {
     font-size: 42px;
 }
 .container {
-    margin-top: 70px;
+    margin-top: 78px;
     border: 1px solid #c5c5c5;
     background-color: #f8f9fa;
     border-radius: 44px;
@@ -731,5 +731,11 @@ p {
         margin-left: -4px;
         border-radius: 0 44px 44px 0;
         min-width: 99px;
+    }
+    .sl7-input {
+        margin-top: 0;
+    }
+    .sl7-search {
+        width: 70px;
     }
 }
