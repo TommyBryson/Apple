@@ -452,7 +452,7 @@ p {
 
 @media (max-width: 800px) {
     body {
-        width: 99.2%;
+        width: 97%;
     }
     li {
         display: none;
@@ -728,7 +728,7 @@ p {
         cursor: pointer;
         background-color: #000;
         color: #fff;
-        margin-left: -243px;
+        margin-left: -4px;
         border-radius: 0 44px 44px 0;
         min-width: 99px;
     }
