@@ -8,6 +8,7 @@ const btn6 = document.querySelector('.btn6');
 const btn7 = document.querySelector('.btn7');
 const btn8 = document.querySelector('.btn8');
 const btn9 = document.querySelector('.btn9');
+const search = document.querySelector('.sl7-search')
 
 btn1.addEventListener('click', ( ) => {
     outputNode.value = 'iPhone'
@@ -35,4 +36,8 @@ btn8.addEventListener('click', ( ) => {
 })
 btn9.addEventListener('click', ( ) => {
     outputNode.value = 'Mobile'
+})
+
+search.addEventListener('click', () => {
+    outputNode.value = ''
 })
