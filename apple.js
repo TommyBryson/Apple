@@ -39,5 +39,5 @@ btn9.addEventListener('click', ( ) => {
 })
 
 search.addEventListener('click', () => {
-    outputNode.value = ''
+    outputNode.value = ' '
 })
